@@ -16,7 +16,7 @@ Orientações para executar os Testes automatizados - frontend e Backend:
 Testes Manuais:
 
 
-User Story 01: Inscrição para vaga no site Beebo; <br>
+User Story 01: Cadastro do currículo no banco de dados da Beeboo <br>
 Url: https://app.pipefy.com/public/form/NWn55kc1; <br>
 Usuário: Candidato; <br>
 Perfil de acesso: <br>
