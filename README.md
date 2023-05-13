@@ -13,7 +13,7 @@ Orientações para executar os Testes automatizados - frontend e Backend:
 * backend-metodo-get.cy.js -> Acessar a api (https://randomuser.me/api/) utilizando o método GET e Validar o status code de retorno.;
 * backend-validar-contratoschema.cy.js -> criar um testes para validar contrato.
 
-Testes Manuais
+Testes Manuais:
 
 
 User Story 01: Inscrição para vaga no site Beebo;
