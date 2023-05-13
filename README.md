@@ -25,7 +25,7 @@ A) Todos os candidatos podem tem acesso ao formulário; <br>
 Funcionalidade: Enviar currículo <br>
 Eu como Candidato <br>
 Quero cadastrar o currículo  <br>
-Para enviar o currículo no banco de dados da Beeboo.  <br>
+Para enviar o currículo para base de dados da Beeboo.  <br>
 
 Cenário: Enviar currículo com sucesso <br>
 Dado que estou no formulário de inscrição no site [Url] da Beebo;<br>
