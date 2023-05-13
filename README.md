@@ -1,4 +1,4 @@
-# beeboo
+# Beeboo
 
 Testes Automatizados:
 
