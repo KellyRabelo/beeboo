@@ -16,22 +16,22 @@ Orientações para executar os Testes automatizados - frontend e Backend:
 Testes Manuais:
 
 
-User Story 01: Inscrição para vaga no site Beebo;
-Url: https://app.pipefy.com/public/form/NWn55kc1;
-Usuário: Candidato;
-Perfil de acesso:
-A) Todos os candidatos podem tem acesso ao formulário;
+User Story 01: Inscrição para vaga no site Beebo; <br>
+Url: https://app.pipefy.com/public/form/NWn55kc1; <br>
+Usuário: Candidato; <br>
+Perfil de acesso: <br>
+A) Todos os candidatos podem tem acesso ao formulário; <br>
 
-Funcionalidade: Enviar currículo
-Eu como Candidato
-Quero cadastrar o currículo 
-Para enviar o currículo no banco de dados da Beeboo. 
+Funcionalidade: Enviar currículo <br>
+Eu como Candidato <br>
+Quero cadastrar o currículo  <br>
+Para enviar o currículo no banco de dados da Beeboo.  <br>
 
-Cenário: Enviar currículo com sucesso 
-Dado que estou no formulário de inscrição no site [Url] da Beebo;
-Quando preencher o formulário com dados solicitados 
-E acionar a opção Enviar
-Então será enviado o currículo para base de dados da Beeboo.
+Cenário: Enviar currículo com sucesso <br>
+Dado que estou no formulário de inscrição no site [Url] da Beebo;<br>
+Quando preencher o formulário com dados solicitados <br>
+E acionar a opção Enviar <br>
+Então será enviado o currículo para base de dados da Beeboo. <br>
 
 
 
